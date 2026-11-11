@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Zainu Rochman — Full-Stack Engineer</title>
+  <desc id="desc">Scalable platforms. Practical AI. Thoughtful engineering. A warm, dark banner with an abstract service architecture illustration.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#25231F"/>
+      <stop offset="1" stop-color="#142C24"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#A4BAA7" opacity=".13"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="360" rx="18" fill="url(#bg)"/>
+  <rect x="740" y="0" width="460" height="360" fill="url(#grid)"/>
+  <path d="M48 48h30" stroke="#D9A77C" stroke-width="3" stroke-linecap="round"/>
+  <text x="90" y="54" fill="#C5D5C5" font-family="Arial, Helvetica, sans-serif" font-size="15" letter-spacing="2">ENGINEER · BUILDER · MENTOR</text>
+  <text x="48" y="132" fill="#F5F0E6" font-family="Georgia, 'Times New Roman', serif" font-size="60">Zainu Rochman</text>
+  <text x="50" y="178" fill="#B8D4BF" font-family="Arial, Helvetica, sans-serif" font-size="26">Full-Stack Engineer</text>
+  <text x="50" y="231" fill="#E4DFD3" font-family="Arial, Helvetica, sans-serif" font-size="19">Scalable platforms. Practical AI.</text>
+  <text x="50" y="260" fill="#E4DFD3" font-family="Arial, Helvetica, sans-serif" font-size="19">Thoughtful engineering.</text>
+  <text x="50" y="317" fill="#B8C5B7" font-family="Arial, Helvetica, sans-serif" font-size="14">Go / Laravel / Vue / TypeScript</text>
+  <g fill="none" stroke="#6A927B" stroke-width="2">
+    <path d="M855 125v45h-65v51"/>
+    <path d="M855 170h195v51"/>
+    <path d="M920 170v51"/>
+  </g>
+  <rect x="772" y="61" width="166" height="70" rx="12" fill="#264738" stroke="#6A927B"/>
+  <circle cx="795" cy="86" r="4" fill="#D9A77C"/>
+  <text x="811" y="91" fill="#D4E4D5" font-family="Consolas, 'Courier New', monospace" font-size="13">product</text>
+  <text x="792" y="115" fill="#F5F0E6" font-family="Consolas, 'Courier New', monospace" font-size="14">ideas → impact</text>
+  <g font-family="Consolas, 'Courier New', monospace" font-size="15" text-anchor="middle">
+    <rect x="744" y="221" width="94" height="58" rx="10" fill="#25392F" stroke="#6A927B"/>
+    <text x="791" y="256" fill="#E1EADB">API</text>
+    <rect x="872" y="221" width="96" height="58" rx="10" fill="#25392F" stroke="#6A927B"/>
+    <text x="920" y="256" fill="#E1EADB">DATA</text>
+    <rect x="1002" y="221" width="96" height="58" rx="10" fill="#443C2E" stroke="#B78F68"/>
+    <text x="1050" y="256" fill="#F1D8B6">AI</text>
+  </g>
+  <circle cx="855" cy="170" r="5" fill="#D9A77C"/>
+  <text x="744" y="317" fill="#B8C5B7" font-family="Arial, Helvetica, sans-serif" font-size="13">HR TECH / EDTECH / AI WORKFLOWS</text>
+</svg>
