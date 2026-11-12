@@ -1,41 +1,30 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-labelledby="title desc">
   <title id="title">Zainu Rochman — Full-Stack Engineer</title>
-  <desc id="desc">Scalable platforms. Practical AI. Thoughtful engineering. A warm, dark banner with an abstract service architecture illustration.</desc>
+  <desc id="desc">A red and charcoal banner matching ryeka.my.id, with the portfolio's original services, compute, AI, and identity illustration.</desc>
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop stop-color="#25231F"/>
-      <stop offset="1" stop-color="#142C24"/>
+    <linearGradient id="banner-bg" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#0f0e0e"/><stop offset=".55" stop-color="#1d1a1a"/><stop offset="1" stop-color="#3e1515"/>
     </linearGradient>
-    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
-      <circle cx="1" cy="1" r="1" fill="#A4BAA7" opacity=".13"/>
-    </pattern>
+    <linearGradient id="banner-name" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#ffaaa3"/><stop offset="1" stop-color="#f16a6a"/>
+    </linearGradient>
+    <clipPath id="banner-clip"><rect width="1200" height="380" rx="18"/></clipPath>
   </defs>
-  <rect width="1200" height="360" rx="18" fill="url(#bg)"/>
-  <rect x="740" y="0" width="460" height="360" fill="url(#grid)"/>
-  <path d="M48 48h30" stroke="#D9A77C" stroke-width="3" stroke-linecap="round"/>
-  <text x="90" y="54" fill="#C5D5C5" font-family="Arial, Helvetica, sans-serif" font-size="15" letter-spacing="2">ENGINEER · BUILDER · MENTOR</text>
-  <text x="48" y="132" fill="#F5F0E6" font-family="Georgia, 'Times New Roman', serif" font-size="60">Zainu Rochman</text>
-  <text x="50" y="178" fill="#B8D4BF" font-family="Arial, Helvetica, sans-serif" font-size="26">Full-Stack Engineer</text>
-  <text x="50" y="231" fill="#E4DFD3" font-family="Arial, Helvetica, sans-serif" font-size="19">Scalable platforms. Practical AI.</text>
-  <text x="50" y="260" fill="#E4DFD3" font-family="Arial, Helvetica, sans-serif" font-size="19">Thoughtful engineering.</text>
-  <text x="50" y="317" fill="#B8C5B7" font-family="Arial, Helvetica, sans-serif" font-size="14">Go / Laravel / Vue / TypeScript</text>
-  <g fill="none" stroke="#6A927B" stroke-width="2">
-    <path d="M855 125v45h-65v51"/>
-    <path d="M855 170h195v51"/>
-    <path d="M920 170v51"/>
+  <g clip-path="url(#banner-clip)">
+    <rect width="1200" height="380" fill="url(#banner-bg)"/>
+    <rect x="0" y="0" width="5" height="380" fill="#ae0202"/>
+    <g font-family="Arial, Helvetica, sans-serif">
+      <rect x="48" y="35" width="197" height="32" rx="16" fill="#252020" stroke="#4a3838"/>
+      <circle cx="65" cy="51" r="4" fill="#f16a6a"/>
+      <text x="79" y="56" fill="#ffb4af" font-size="14" font-weight="600">Full-Stack Engineer</text>
+      <text x="48" y="118" fill="#f3f0eb" font-size="28" font-weight="600">Hi, I’m</text>
+      <text x="45" y="181" fill="url(#banner-name)" font-size="58" font-weight="700" letter-spacing="-2">Zainu Rochman</text>
+      <text x="48" y="232" fill="#f3efea" font-size="19">Scalable platforms. Practical AI.</text>
+      <text x="48" y="260" fill="#c6bab4" font-size="19">Thoughtful engineering. Measurable impact.</text>
+      <path d="M48 301h33" stroke="#ae0202" stroke-width="3" stroke-linecap="round"/>
+      <text x="94" y="306" fill="#ffb4af" font-size="15">ryeka.my.id</text>
+      <text x="48" y="346" fill="#c6bab4" font-size="13">GO / LARAVEL / VUE / TYPESCRIPT</text>
+    </g>
+<svg x="694" y="-10" width="496" height="405" viewBox="0 0 760 620" aria-hidden="true" font-family="Arial, Helvetica, sans-serif"><defs><linearGradient id="_R_j_-top" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F3F0EB"></stop><stop offset=".42" stop-color="#D6AAA4"></stop><stop offset="1" stop-color="#E65656"></stop></linearGradient><linearGradient id="_R_j_-side" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#AE0202"></stop><stop offset="1" stop-color="#151313"></stop></linearGradient><linearGradient id="_R_j_-front" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#AE0202"></stop><stop offset="1" stop-color="#850A0A"></stop></linearGradient><radialGradient id="_R_j_-halo"><stop stop-color="#E65656" stop-opacity=".28"></stop><stop offset="1" stop-color="#E65656" stop-opacity="0"></stop></radialGradient><filter id="_R_j_-shadow" x="-50%" y="-50%" width="200%" height="220%"><feGaussianBlur in="SourceAlpha" stdDeviation="9"></feGaussianBlur><feOffset dy="14"></feOffset><feComponentTransfer><feFuncA type="linear" slope=".24"></feFuncA></feComponentTransfer><feMerge><feMergeNode></feMergeNode><feMergeNode in="SourceGraphic"></feMergeNode></feMerge></filter></defs><ellipse cx="398" cy="327" rx="326" ry="255" fill="url(#_R_j_-halo)"></ellipse><g class="systems-art__shards" fill="none" stroke="#AE0202" stroke-opacity=".22"><path d="M50 158 137 72 119 171 74 208zM583 88l103 40-75 18 32 85-75-55zM68 428l93-33-45 92-38-27zM631 390l72-70-24 119-52-13z" fill="#D6AAA4" fill-opacity=".22"></path></g><g class="systems-art__links" data-hero-links="" fill="none" stroke="#AE0202" stroke-width="2" stroke-opacity=".5" stroke-linecap="round"><path d="M268 232h22"></path><path d="M478 244h30v-46h11"></path><path d="M336 360v27"></path></g><g class="systems-art__module" data-hero-part="services" data-hero-silhouette="server-rack" filter="url(#_R_j_-shadow)"><rect x="136" y="158" width="132" height="130" rx="10" fill="url(#_R_j_-side)" stroke="#151313" stroke-opacity=".5"></rect><rect x="130" y="150" width="132" height="130" rx="10" fill="url(#_R_j_-front)" stroke="#151313" stroke-width="2"></rect><rect x="140" y="170" width="112" height="18" rx="5" fill="#151313" stroke="#AE0202" stroke-width="2"></rect><circle cx="151" cy="179" r="2" fill="#F3F0EB"></circle><circle cx="159" cy="179" r="2" fill="#F3F0EB" fill-opacity=".6"></circle><path d="M168 176h52M168 182h38" stroke="#D6AAA4" stroke-width="1.4" stroke-linecap="round" stroke-opacity=".55"></path><rect x="140" y="194" width="112" height="18" rx="5" fill="#151313" stroke="#AE0202" stroke-width="2"></rect><circle cx="151" cy="203" r="2" fill="#F3F0EB"></circle><circle cx="159" cy="203" r="2" fill="#F3F0EB" fill-opacity=".6"></circle><path d="M168 200h52M168 206h38" stroke="#D6AAA4" stroke-width="1.4" stroke-linecap="round" stroke-opacity=".55"></path><rect x="140" y="218" width="112" height="18" rx="5" fill="#151313" stroke="#AE0202" stroke-width="2"></rect><circle cx="151" cy="227" r="2" fill="#F3F0EB"></circle><circle cx="159" cy="227" r="2" fill="#F3F0EB" fill-opacity=".6"></circle><path d="M168 224h52M168 230h38" stroke="#D6AAA4" stroke-width="1.4" stroke-linecap="round" stroke-opacity=".55"></path><path d="M140 244h112" stroke="#151313" stroke-width="1.2" stroke-opacity=".5"></path><text x="196" y="265" text-anchor="middle" fill="#F3F0EB" font-size="11" font-weight="700" letter-spacing="2">SERVICES</text></g><g class="systems-art__chip" data-hero-part="core" data-hero-silhouette="processor" filter="url(#_R_j_-shadow)"><rect x="298" y="218" width="188" height="150" rx="16" fill="url(#_R_j_-side)" stroke="#151313" stroke-opacity=".55"></rect><rect x="290" y="210" width="188" height="150" rx="16" fill="url(#_R_j_-front)" stroke="#151313" stroke-width="2"></rect><g data-hero-pins="perimeter" stroke="#D6AAA4" stroke-width="2" stroke-linecap="round" stroke-opacity=".8"><path d="M290 232h-12"></path><path d="M290 250h-12"></path><path d="M290 320h-12"></path><path d="M290 338h-12"></path><path d="M478 232h12"></path><path d="M478 250h12"></path><path d="M478 320h12"></path><path d="M478 338h12"></path><path d="M312 210v-14"></path><path d="M352 210v-14"></path><path d="M412 210v-14"></path><path d="M452 210v-14"></path><path d="M312 360v14"></path><path d="M352 360v14"></path><path d="M412 360v14"></path><path d="M452 360v14"></path></g><rect x="334" y="244" width="100" height="64" rx="12" fill="#151313" stroke="#AE0202" stroke-width="1.4" stroke-opacity=".85"></rect><path d="M334 258h-22M334 292h-22M434 258h22M434 292h22M358 244v-12M410 244v-12M358 308v12M410 308v12" stroke="#D6AAA4" stroke-width="1.6" stroke-linecap="round" stroke-opacity=".45"></path><text x="384" y="290" text-anchor="middle" fill="#F3F0EB" font-size="22" font-weight="700" letter-spacing="2">ZR</text><text x="384" y="342" text-anchor="middle" fill="#F3F0EB" font-size="11" font-weight="700" letter-spacing="2">COMPUTE / CORE</text></g><g class="systems-art__module" data-hero-part="ai-flow" data-hero-silhouette="neural-network" filter="url(#_R_j_-shadow)"><circle cx="519" cy="130" r="44" fill="url(#_R_j_-halo)"></circle><g data-hero-branches="" fill="none" stroke="#AE0202" stroke-width="1.8" stroke-opacity=".75" stroke-linecap="round"><path d="M483 103 498 114"></path><path d="M556 103 540 114"></path><path d="M493 154 500 147"></path><path d="M553 153 540 145"></path></g><g stroke="#151313" stroke-width="1.5"><circle cx="474" cy="96" r="11" fill="url(#_R_j_-front)"></circle><circle cx="564" cy="96" r="11" fill="url(#_R_j_-front)"></circle><circle cx="486" cy="160" r="9" fill="url(#_R_j_-front)"></circle><circle cx="560" cy="158" r="9" fill="url(#_R_j_-front)"></circle></g><g fill="#E65656"><circle cx="474" cy="96" r="3"></circle><circle cx="564" cy="96" r="3"></circle><circle cx="486" cy="160" r="2.5"></circle><circle cx="560" cy="158" r="2.5"></circle></g><circle cx="519" cy="130" r="26" fill="url(#_R_j_-front)" stroke="#D6AAA4" stroke-width="1.5"></circle><text x="519" y="136" text-anchor="middle" fill="#F3F0EB" font-size="15" font-weight="700" letter-spacing="1">AI</text><rect x="477" y="176" width="84" height="22" rx="6" fill="#850A0A" stroke="#151313"></rect><text x="519" y="190" text-anchor="middle" fill="#F3F0EB" font-size="9" font-weight="700" letter-spacing="1.4">AI FLOW</text></g><g class="systems-art__module" data-hero-part="identity" data-hero-silhouette="shield-lock" filter="url(#_R_j_-shadow)"><path d="M336 387L382 399V414C382 428 361 437 336 443C311 437 290 428 290 414V399Z" fill="url(#_R_j_-front)" stroke="#151313" stroke-width="2"></path><path d="M336 395L374 404V414C374 423 357 430 336 435C315 430 298 423 298 414V404Z" fill="url(#_R_j_-side)" stroke="#151313" stroke-opacity=".6"></path><path d="M325 415v-6a11 11 0 0 1 22 0v6" fill="none" stroke="#F3F0EB" stroke-width="2.4" stroke-linecap="round"></path><rect x="322" y="415" width="28" height="19" rx="5" fill="#AE0202" stroke="#F3F0EB" stroke-width="1.4"></rect><circle cx="336" cy="423" r="2.6" fill="#F3F0EB"></circle><path d="M336 425v4" stroke="#F3F0EB" stroke-width="1.6" stroke-linecap="round"></path><rect x="294" y="451" width="84" height="22" rx="6" fill="#850A0A" stroke="#151313"></rect><text x="336" y="465" text-anchor="middle" fill="#F3F0EB" font-size="10" font-weight="700" letter-spacing="1">IDENTITY</text></g></svg>
   </g>
-  <rect x="772" y="61" width="166" height="70" rx="12" fill="#264738" stroke="#6A927B"/>
-  <circle cx="795" cy="86" r="4" fill="#D9A77C"/>
-  <text x="811" y="91" fill="#D4E4D5" font-family="Consolas, 'Courier New', monospace" font-size="13">product</text>
-  <text x="792" y="115" fill="#F5F0E6" font-family="Consolas, 'Courier New', monospace" font-size="14">ideas → impact</text>
-  <g font-family="Consolas, 'Courier New', monospace" font-size="15" text-anchor="middle">
-    <rect x="744" y="221" width="94" height="58" rx="10" fill="#25392F" stroke="#6A927B"/>
-    <text x="791" y="256" fill="#E1EADB">API</text>
-    <rect x="872" y="221" width="96" height="58" rx="10" fill="#25392F" stroke="#6A927B"/>
-    <text x="920" y="256" fill="#E1EADB">DATA</text>
-    <rect x="1002" y="221" width="96" height="58" rx="10" fill="#443C2E" stroke="#B78F68"/>
-    <text x="1050" y="256" fill="#F1D8B6">AI</text>
-  </g>
-  <circle cx="855" cy="170" r="5" fill="#D9A77C"/>
-  <text x="744" y="317" fill="#B8C5B7" font-family="Arial, Helvetica, sans-serif" font-size="13">HR TECH / EDTECH / AI WORKFLOWS</text>
 </svg>

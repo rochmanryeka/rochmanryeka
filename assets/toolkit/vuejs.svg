@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="150" height="112" viewBox="0 0 150 112" role="img" aria-label="Vue.js — Frontend"><rect x="0.5" y="0.5" width="149" height="111" rx="12" fill="#1d1a1a" stroke="#4a3838" /><rect x="57" y="14" width="36" height="36" rx="9" fill="#f3f0eb" /><svg x="62" y="19" width="26" height="26" viewBox="0 0 196.32 170.02" preserveAspectRatio="xMidYMid meet"><path fill="#42b883" d="M120.83 0L98.16 39.26 75.49 0H0l98.16 170.02L196.32 0h-75.49z" />
+  <path fill="#35495e" d="M120.83 0L98.16 39.26 75.49 0H39.26l58.9 102.01L157.06 0h-36.23z" />
+</svg><text x="75" y="74" fill="#f3efea" font-family="Arial, sans-serif" font-size="14" font-weight="700" text-anchor="middle">Vue.js</text><text x="75" y="94" fill="#c6bab4" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">Frontend</text></svg>

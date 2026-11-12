@@ -10,7 +10,7 @@ I build platforms that help people learn, find opportunities, and make better de
 
 With **8+ years of experience**, I've built products from the ground up, led engineering squads, and worked on systems serving **2.7 million+ users**. I care about clear architecture, measurable performance, and AI that solves a real problem.
 
-[LinkedIn](https://www.linkedin.com/in/zainu-rochman/) · [Email](mailto:rochman.ryeka@gmail.com) · [Projects](https://github.com/rochmanryeka?tab=repositories)
+[Portfolio](https://ryeka.my.id/) · [LinkedIn](https://www.linkedin.com/in/zainu-rochman/) · [Email](mailto:rochman.ryeka@gmail.com) · [Projects](https://github.com/rochmanryeka?tab=repositories)
 
 ### ⚡ A few quick facts
 
@@ -22,13 +22,19 @@ With **8+ years of experience**, I've built products from the ground up, led eng
 
 ### 🧰 My toolkit
 
+A selection of tools I use across product engineering, platform performance, and delivery.
+
 <p>
-  <img src="https://img.shields.io/badge/Go-173C32?style=flat-square&amp;logo=go&amp;logoColor=D1E5DA" alt="Go" />
-  <img src="https://img.shields.io/badge/Laravel-173C32?style=flat-square&amp;logo=laravel&amp;logoColor=D1E5DA" alt="Laravel" />
-  <img src="https://img.shields.io/badge/Vue.js-173C32?style=flat-square&amp;logo=vuedotjs&amp;logoColor=D1E5DA" alt="Vue.js" />
-  <img src="https://img.shields.io/badge/TypeScript-173C32?style=flat-square&amp;logo=typescript&amp;logoColor=D1E5DA" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-173C32?style=flat-square&amp;logo=react&amp;logoColor=D1E5DA" alt="React" />
-  <img src="https://img.shields.io/badge/Docker-173C32?style=flat-square&amp;logo=docker&amp;logoColor=D1E5DA" alt="Docker" />
+  <img src="./assets/toolkit/go.svg" width="140" height="105" alt="Go — Backend" />
+  <img src="./assets/toolkit/php.svg" width="140" height="105" alt="PHP — Backend" />
+  <img src="./assets/toolkit/javascript.svg" width="140" height="105" alt="JavaScript — Languages" />
+  <img src="./assets/toolkit/typescript.svg" width="140" height="105" alt="TypeScript — Languages" />
+  <img src="./assets/toolkit/react.svg" width="140" height="105" alt="React — Frontend" />
+  <img src="./assets/toolkit/vuejs.svg" width="140" height="105" alt="Vue.js — Frontend" />
+  <img src="./assets/toolkit/laravel.svg" width="140" height="105" alt="Laravel — Backend" />
+  <img src="./assets/toolkit/docker.svg" width="140" height="105" alt="Docker — Infrastructure" />
+  <img src="./assets/toolkit/mysql.svg" width="140" height="105" alt="MySQL — Data" />
+  <img src="./assets/toolkit/aws.svg" width="140" height="105" alt="AWS — Cloud" />
 </p>
 
 | Area | Technologies |
