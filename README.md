@@ -25,16 +25,16 @@ With **8+ years of experience**, I've built products from the ground up, led eng
 A selection of tools I use across product engineering, platform performance, and delivery.
 
 <p>
-  <img src="./assets/toolkit/go.svg" width="140" height="105" alt="Go — Backend" />
-  <img src="./assets/toolkit/php.svg" width="140" height="105" alt="PHP — Backend" />
-  <img src="./assets/toolkit/javascript.svg" width="140" height="105" alt="JavaScript — Languages" />
-  <img src="./assets/toolkit/typescript.svg" width="140" height="105" alt="TypeScript — Languages" />
-  <img src="./assets/toolkit/react.svg" width="140" height="105" alt="React — Frontend" />
-  <img src="./assets/toolkit/vuejs.svg" width="140" height="105" alt="Vue.js — Frontend" />
-  <img src="./assets/toolkit/laravel.svg" width="140" height="105" alt="Laravel — Backend" />
-  <img src="./assets/toolkit/docker.svg" width="140" height="105" alt="Docker — Infrastructure" />
-  <img src="./assets/toolkit/mysql.svg" width="140" height="105" alt="MySQL — Data" />
-  <img src="./assets/toolkit/aws.svg" width="140" height="105" alt="AWS — Cloud" />
+  <picture><img src="./assets/toolkit/go.svg" width="140" height="105" alt="Go — Backend" /></picture>
+  <picture><img src="./assets/toolkit/php.svg" width="140" height="105" alt="PHP — Backend" /></picture>
+  <picture><img src="./assets/toolkit/javascript.svg" width="140" height="105" alt="JavaScript — Languages" /></picture>
+  <picture><img src="./assets/toolkit/typescript.svg" width="140" height="105" alt="TypeScript — Languages" /></picture>
+  <picture><img src="./assets/toolkit/react.svg" width="140" height="105" alt="React — Frontend" /></picture>
+  <picture><img src="./assets/toolkit/vuejs.svg" width="140" height="105" alt="Vue.js — Frontend" /></picture>
+  <picture><img src="./assets/toolkit/laravel.svg" width="140" height="105" alt="Laravel — Backend" /></picture>
+  <picture><img src="./assets/toolkit/docker.svg" width="140" height="105" alt="Docker — Infrastructure" /></picture>
+  <picture><img src="./assets/toolkit/mysql.svg" width="140" height="105" alt="MySQL — Data" /></picture>
+  <picture><img src="./assets/toolkit/aws.svg" width="140" height="105" alt="AWS — Cloud" /></picture>
 </p>
 
 | Area | Technologies |
@@ -51,11 +51,6 @@ A selection of tools I use across product engineering, platform performance, and
 | **Rencanamu** · EdTech | Built the platform, psychometric assessments, recommendation engine, and supporting infrastructure. | **2.7M+ users served**, **150K+ personalized report PDFs**, and **over 10× faster article pages** through caching. |
 | **Talentics** · HR Tech | Built recruitment services, AI-assisted interviews, CV parsing, and Elasticsearch-powered job search; led an engineering squad. | **10× faster candidate-list API** and **5× improvement in job-search speed and relevance**. |
 | **akun.mu** · Group platform | Built the Go SSO API with Google and LinkedIn login. | Unified access across **Rencanamu and Talentics**. |
-
-### 🐾 A few things I've built
-
-- **[Virivant](https://github.com/rochmanryeka/Virivant)** — A foreign-currency portfolio tracker with spread-aware valuations and transaction history. Built with Next.js, TypeScript, and Supabase.
-- **[AICATS](https://github.com/rochmanryeka/aicats)** — A multi-agent workflow toolkit for GitHub Copilot, with specialist agents, reusable skills, and structured session memory.
 
 <details>
 <summary><strong>Experience, in brief</strong></summary>
